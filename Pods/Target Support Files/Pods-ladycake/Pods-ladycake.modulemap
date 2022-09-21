@@ -1,0 +1,6 @@
+framework module Pods_ladycake {
+  umbrella header "Pods-ladycake-umbrella.h"
+
+  export *
+  module * { export * }
+}
