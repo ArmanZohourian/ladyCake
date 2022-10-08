@@ -1,3 +1,3 @@
 # ladyCake
-An E-commerce application build using Swfit , UIKit, Alamofire and SwiftyJSON
+An E-commerce application built using Swfit , UIKit, Alamofire and SwiftyJSON
 NOTE: The available code does not represent the actual code. 
